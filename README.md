@@ -1,4 +1,6 @@
-﻿# Solving Maximum Independent Set Problem w/ Graph Convolutional Neural Network
+﻿!!! This README.md contains all of the markdown from GCN MISP. For matching code with annotations, please refer to 'GCN MISP.ipynb'
+ 
+ # Solving Maximum Independent Set Problem w/ Graph Convolutional Neural Network
 
 For this project, I will be using a Graph Convolutional Neural Network (GCN) to generate approximate solutions to the maximum independent set problem given a graph G. For the implementation, I will be using the [**PyTorch**](https://github.com/pytorch/pytorch) library as well as the [**NetworkX**](https://github.com/networkx/networkx) library for graph representation.
 
